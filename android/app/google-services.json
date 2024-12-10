@@ -1,0 +1,271 @@
+{
+  "project_info": {
+    "project_number": "554922277176",
+    "firebase_url": "https://sample-d7987-default-rtdb.firebaseio.com",
+    "project_id": "sample-d7987",
+    "storage_bucket": "sample-d7987.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554922277176:android:415cadaeadf5f43e5c29cd",
+        "android_client_info": {
+          "package_name": "com.example.firebase_master"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554922277176-q2j304blu844bpucfblpv8eq7d8j5dnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvXnA0q7voWewQIX5Rd3_eNjzvWhJAzm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554922277176-86o3mjlf7hf0fcnr0583qjdcra6gkahk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "554922277176-8q7202npeaedbnkju97r7t4akl8ub8hi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pizzaOrderApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554922277176:android:7eeba087521f57ac5c29cd",
+        "android_client_info": {
+          "package_name": "com.example.food_admin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554922277176-q2j304blu844bpucfblpv8eq7d8j5dnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvXnA0q7voWewQIX5Rd3_eNjzvWhJAzm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554922277176-86o3mjlf7hf0fcnr0583qjdcra6gkahk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "554922277176-8q7202npeaedbnkju97r7t4akl8ub8hi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pizzaOrderApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554922277176:android:f5e497f560166ca55c29cd",
+        "android_client_info": {
+          "package_name": "com.example.food_order_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554922277176-q2j304blu844bpucfblpv8eq7d8j5dnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvXnA0q7voWewQIX5Rd3_eNjzvWhJAzm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554922277176-86o3mjlf7hf0fcnr0583qjdcra6gkahk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "554922277176-8q7202npeaedbnkju97r7t4akl8ub8hi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pizzaOrderApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554922277176:android:abd119e434aa53025c29cd",
+        "android_client_info": {
+          "package_name": "com.example.ghj_123"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554922277176-fa8dn513plshmkecnnvuud1kgcbc315b.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.ghj_123",
+            "certificate_hash": "51403617eea9238b4973ffe81b6d53d5f65c1474"
+          }
+        },
+        {
+          "client_id": "554922277176-q2j304blu844bpucfblpv8eq7d8j5dnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvXnA0q7voWewQIX5Rd3_eNjzvWhJAzm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554922277176-86o3mjlf7hf0fcnr0583qjdcra6gkahk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "554922277176-8q7202npeaedbnkju97r7t4akl8ub8hi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pizzaOrderApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554922277176:android:184ebae2a38514dd5c29cd",
+        "android_client_info": {
+          "package_name": "com.example.madman"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554922277176-q2j304blu844bpucfblpv8eq7d8j5dnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvXnA0q7voWewQIX5Rd3_eNjzvWhJAzm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554922277176-86o3mjlf7hf0fcnr0583qjdcra6gkahk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "554922277176-8q7202npeaedbnkju97r7t4akl8ub8hi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pizzaOrderApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554922277176:android:d8da6896e86e55a45c29cd",
+        "android_client_info": {
+          "package_name": "com.example.nba_highlights"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554922277176-q2j304blu844bpucfblpv8eq7d8j5dnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvXnA0q7voWewQIX5Rd3_eNjzvWhJAzm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554922277176-86o3mjlf7hf0fcnr0583qjdcra6gkahk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "554922277176-8q7202npeaedbnkju97r7t4akl8ub8hi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pizzaOrderApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:554922277176:android:3d1d8801d62fa81e5c29cd",
+        "android_client_info": {
+          "package_name": "com.example.pizza_order_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "554922277176-q2j304blu844bpucfblpv8eq7d8j5dnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvXnA0q7voWewQIX5Rd3_eNjzvWhJAzm0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "554922277176-86o3mjlf7hf0fcnr0583qjdcra6gkahk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "554922277176-8q7202npeaedbnkju97r7t4akl8ub8hi.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.pizzaOrderApp.RunnerTests"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
